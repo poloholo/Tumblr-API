@@ -1,0 +1,30 @@
+body {
+    background-image: url("funky-lines.png");
+}
+
+#top {
+    /* border: 2px solid turquoise; */
+    /* background-color: grey; */
+    /* background-image: url("funky-lines.png"); */
+    text-align: center;
+    color: purple;
+    text-shadow: 2px 2px black;
+    font-size: 60px;
+    font-family: 'Architects Daughter', cursive;
+}
+
+#query-form{
+    text-align: center;
+}
+
+
+#list-data li {
+    display: inline-block;
+    max-width: 200px;
+
+}
+
+li img {
+    max-width: 100%;
+    vertical-align: middle;
+}
